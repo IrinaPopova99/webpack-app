@@ -1,0 +1,12 @@
+$border: 1px solid #ccc;
+
+.box-scss {
+    padding: 1rem;
+    border-radius: 5px;
+    border: $border;
+
+    h2 {
+        text-align: center;
+        color: rgb(139, 0, 104);
+    }
+}
